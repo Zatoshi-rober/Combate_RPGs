@@ -1,0 +1,7 @@
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\bin\Debug\CombateRPGs.exe.config
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\bin\Debug\CombateRPGs.exe
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\bin\Debug\CombateRPGs.pdb
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\obj\Debug\CombateRPGs.csproj.AssemblyReference.cache
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\obj\Debug\CombateRPGs.csproj.CoreCompileInputs.cache
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\obj\Debug\CombateRPGs.exe
+C:\Users\sena\Documents\CombateRPGs\CombateRPGs\obj\Debug\CombateRPGs.pdb
